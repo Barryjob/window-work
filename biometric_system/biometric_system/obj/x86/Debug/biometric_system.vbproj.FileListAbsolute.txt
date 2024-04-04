@@ -1,0 +1,11 @@
+E:\Projects\biometric_system\biometric_system\bin\Debug\biometric_system.exe
+E:\Projects\biometric_system\biometric_system\bin\Debug\biometric_system.pdb
+E:\Projects\biometric_system\biometric_system\bin\Debug\biometric_system.xml
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.Form1.resources
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.Resources.resources
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.vbproj.GenerateResource.Cache
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.exe
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.xml
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.pdb
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.user_biometric_enrollment.resources
+E:\Projects\biometric_system\biometric_system\obj\x86\Debug\biometric_system.clockin.resources

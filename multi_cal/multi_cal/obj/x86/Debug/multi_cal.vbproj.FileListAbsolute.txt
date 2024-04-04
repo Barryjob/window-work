@@ -1,0 +1,9 @@
+E:\Projects\multi_cal\multi_cal\bin\Debug\multi_cal.exe
+E:\Projects\multi_cal\multi_cal\bin\Debug\multi_cal.pdb
+E:\Projects\multi_cal\multi_cal\bin\Debug\multi_cal.xml
+E:\Projects\multi_cal\multi_cal\obj\x86\Debug\multi_cal.Form1.resources
+E:\Projects\multi_cal\multi_cal\obj\x86\Debug\multi_cal.Resources.resources
+E:\Projects\multi_cal\multi_cal\obj\x86\Debug\multi_cal.vbproj.GenerateResource.Cache
+E:\Projects\multi_cal\multi_cal\obj\x86\Debug\multi_cal.exe
+E:\Projects\multi_cal\multi_cal\obj\x86\Debug\multi_cal.xml
+E:\Projects\multi_cal\multi_cal\obj\x86\Debug\multi_cal.pdb

@@ -1,0 +1,9 @@
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\bin\Release\LOAN_APP.exe
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\bin\Release\LOAN_APP.pdb
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\bin\Release\LOAN_APP.xml
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\obj\x86\Release\LOAN_APP.Form1.resources
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\obj\x86\Release\LOAN_APP.Resources.resources
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\obj\x86\Release\LOAN_APP.vbproj.GenerateResource.Cache
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\obj\x86\Release\LOAN_APP.exe
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\obj\x86\Release\LOAN_APP.xml
+E:\Projects\WINDOWS\LOAN_APP\LOAN_APP\obj\x86\Release\LOAN_APP.pdb

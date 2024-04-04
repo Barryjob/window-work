@@ -1,0 +1,9 @@
+E:\Projects\WINDOWS\multi_function\multi_function\obj\x86\Release\multi_function.loan_app_panel.resources
+E:\Projects\WINDOWS\multi_function\multi_function\obj\x86\Release\multi_function.Resources.resources
+E:\Projects\WINDOWS\multi_function\multi_function\obj\x86\Release\multi_function.vbproj.GenerateResource.Cache
+E:\Projects\WINDOWS\multi_function\multi_function\bin\Release\multi_function.exe
+E:\Projects\WINDOWS\multi_function\multi_function\bin\Release\multi_function.pdb
+E:\Projects\WINDOWS\multi_function\multi_function\bin\Release\multi_function.xml
+E:\Projects\WINDOWS\multi_function\multi_function\obj\x86\Release\multi_function.exe
+E:\Projects\WINDOWS\multi_function\multi_function\obj\x86\Release\multi_function.xml
+E:\Projects\WINDOWS\multi_function\multi_function\obj\x86\Release\multi_function.pdb

@@ -1,0 +1,11 @@
+E:\Projects\Auto_system\Auto_system\bin\Debug\Auto_system.exe
+E:\Projects\Auto_system\Auto_system\bin\Debug\Auto_system.pdb
+E:\Projects\Auto_system\Auto_system\bin\Debug\Auto_system.xml
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.Resources.resources
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.vbproj.GenerateResource.Cache
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.exe
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.xml
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.pdb
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.autosystem_form.resources
+E:\Projects\Auto_system\Auto_system\bin\Debug\MySql.Data.DLL
+E:\Projects\Auto_system\Auto_system\obj\x86\Debug\Auto_system.vbprojResolveAssemblyReference.cache

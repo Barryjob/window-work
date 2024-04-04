@@ -1,0 +1,9 @@
+E:\Projects\SUBSTRACT\SUBSTRACT\bin\Debug\SUBSTRACT.exe
+E:\Projects\SUBSTRACT\SUBSTRACT\bin\Debug\SUBSTRACT.pdb
+E:\Projects\SUBSTRACT\SUBSTRACT\bin\Debug\SUBSTRACT.xml
+E:\Projects\SUBSTRACT\SUBSTRACT\obj\x86\Debug\SUBSTRACT.Form1.resources
+E:\Projects\SUBSTRACT\SUBSTRACT\obj\x86\Debug\SUBSTRACT.Resources.resources
+E:\Projects\SUBSTRACT\SUBSTRACT\obj\x86\Debug\SUBSTRACT.vbproj.GenerateResource.Cache
+E:\Projects\SUBSTRACT\SUBSTRACT\obj\x86\Debug\SUBSTRACT.exe
+E:\Projects\SUBSTRACT\SUBSTRACT\obj\x86\Debug\SUBSTRACT.xml
+E:\Projects\SUBSTRACT\SUBSTRACT\obj\x86\Debug\SUBSTRACT.pdb
